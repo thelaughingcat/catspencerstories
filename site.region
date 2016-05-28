@@ -110,7 +110,9 @@
           {.section collection}
           {.collectionTypeNameEquals? blog}
           <aside id="sidebarWrapper"><div id="sidebar">
-            <squarespace:block-field id="sidebar-{squarespace.id="yui_3_17_2_1_1464451848978_3564" label="Sidebar Content" />
+            <squarespace:block-field id="sidebarBlocks" label="Sidebar Content" />
+            id="sidebar-{squarespace.id="yui_3_17_2_1_1464451848978_3564}"
+            
           </div></aside>
           {.end}
           {.end}
